@@ -1,2 +1,2 @@
 # site-cinema-html-django
-my project Macyk
+my project
